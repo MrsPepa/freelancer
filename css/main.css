@@ -68,6 +68,9 @@ nav{
 	padding-left: 15px;
 	font-size: 17px;
 }
+#menu section a:hover{
+	color: #18BC9C;
+}
 #first{
 	background-color: #18BC9C;
 	width: 100%;
